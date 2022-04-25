@@ -1,0 +1,15 @@
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.csproj.AssemblyReference.cache
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.AssemblyInfoInputs.cache
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.AssemblyInfo.cs
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.csproj.CoreCompileInputs.cache
+C:\ProgrammingP\Git\Valikko\bin\Debug\net6.0\Harjoitus.exe
+C:\ProgrammingP\Git\Valikko\bin\Debug\net6.0\Harjoitus.deps.json
+C:\ProgrammingP\Git\Valikko\bin\Debug\net6.0\Harjoitus.runtimeconfig.json
+C:\ProgrammingP\Git\Valikko\bin\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Git\Valikko\bin\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.dll
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\refint\Harjoitus.dll
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.pdb
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\Harjoitus.genruntimeconfig.cache
+C:\ProgrammingP\Git\Valikko\obj\Debug\net6.0\ref\Harjoitus.dll
